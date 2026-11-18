@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>mechasense-ai</title>
+<style>
+body{font-family:Arial;margin:0;background:#0a0f1e;color:white;text-align:center}
+header{padding:40px 20px;background:linear-gradient(135deg,#00c6ff,#0072ff)}
+h1{font-size:38px;margin:10px 0}
+p{font-size:18px;line-height:1.6}
+.btn{display:inline-block;background:#ffcc00;color:black;padding:15px 30px;border-radius:30px;text-decoration:none;font-weight:bold;margin-top:20px}
+section{padding:30px 20px}
+.card{background:#141b33;padding:20px;border-radius:15px;margin:15px}
+img{width:90%;max-width:400px;border-radius:15px;margin-top:20px}
+</style>
+</head>
+<body>
+<header>
+<img src="IMG-20261118-WA7512.jpg">
+<h1>mechasense-ai</h1>
+<p>Predict. Prevent. Optimize. Sustain.</p>
+<p>Intelligent Predictive Maintenance Platform</p>
+<a class="btn" href="https://wa.me/263000000000">Contact Us on WhatsApp</a>
+</header>
+<section>
+<div class="card"><h2>Predict</h2><p>Detect machine faults before they happen with AI.</p></div>
+<div class="card"><h2>Prevent</h2><p>Stop breakdowns and reduce downtime.</p></div>
+<div class="card"><h2>Optimize</h2><p>Improve performance and save costs.</p></div>
+<div class="card"><h2>Sustain</h2><p>Extend machine life and protect the environment.</p></div>
+</section>
+<p>© 2026 mechasense-ai</p>
+</body>
+</html>
